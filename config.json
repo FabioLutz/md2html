@@ -1,0 +1,28 @@
+{
+    "pages": [
+      {
+        "file": "page/arquivo1.md",
+        "template": "template-alt.html",
+        "output": "page/pagina1.html",
+        "title": "Página 1"
+      },
+      {
+        "file": "page/arquivo2.md",
+        "template": "template-dark.html",
+        "output": "page/pagina2.html",
+        "title": "Página 2"
+      },
+      {
+        "file": "page/arquivo3.md",
+        "template": "template-minimal.html",
+        "output": "page/pagina3.html",
+        "title": "Página 3"
+      },
+      {
+        "file": "page/arquivo4.md",
+        "output": "page/pagina4.html",
+        "title": "Página 4"
+      }
+    ],
+    "defaultTemplate": "template-page.html"
+  }
